@@ -1,0 +1,2 @@
+.htacces
+init.php
